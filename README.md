@@ -5,7 +5,7 @@
 ## My Skills 😎
 
 1. ` Java `
-2. ` Python `
+2. ` Python (45%) `
 3. ` HTML & CSS (20%) `
 
 ## What i am learning 😐
@@ -16,12 +16,3 @@
 ## Where can u reach me 🤷‍♂️
 
 1. ` Discord: Max˞#0001 `
-
-## My latest projects
-
-1. ` SKYROYALE - MineCraft SkyPvP Server `
-
-
-
-
-      

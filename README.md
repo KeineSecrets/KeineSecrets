@@ -15,4 +15,4 @@
 
 ## Where can u reach me 🤷‍♂️
 
-1. ` Discord: Max˞#0001 `
+1. ` Discord: castvway˞#0001 `
